@@ -1,0 +1,23 @@
+1 - Novo cadastro: Essa função permite ao usuário cadastrar um novo usuário inicialmente na memória RAM.
+
+2 - Listar cadastros: Exibe na tela todos os cadastros disponíveis na memória randômica.
+
+3 - Buscar pelo nome: Solicita ao usuário a digitação do nome de um cliente e verifica se o mesmo encontra-se na memória RAM.
+
+4 - Excluir cadastro: Realiza a exclusão do cadastro de um usuário disponível na memória randômica.
+
+5 - Salvar no disco: Faz a escrita de todos os usuários carregados na memória RAM para o disco rígido.
+
+6 - Listar do disco: Exibe na tela todos os usuários armazenados no disco.
+
+7 - Ajuda do programa: Mostra este arquivo de ajuda na tela e retorna para o menu principal.
+
+8 - Limpar tela: Redefine a exibição do programa e retorna para o menu principal sem alterar os dados carregados.
+
+9 - Sair do programa: Realiza a saída do programa informando para o sistema operacional a execução sem erros.
+
+10 - Limpar cadastros: Substitui todos os cadastros armazenados no disco por um novo arquivo em branco.
+
+11 - Limpar cadastros RAM: Libera da memória randômica todos os cadastros cadastrados previamente.
+
+12 - Importar do disco: Carrega na memória randômica todos os cadastros presentes no disco rígido.
